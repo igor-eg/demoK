@@ -8,7 +8,6 @@
   *  с ОС Windows  Server, ОС Linux;
   * основ программирования JAVA.
   
-  ![foto](img\foto.jpg)
-
-  
+  ![foto](https://github.com/igor-eg/demoK/blob/master/img/foto.jpg?raw=true)
+ 
   
